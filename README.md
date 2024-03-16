@@ -9,6 +9,9 @@ While this template is primarily for personal use, contributions and suggestions
 ## Description
 
 ## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
 ## How it looks
 ## Features
 ## How to run the project
