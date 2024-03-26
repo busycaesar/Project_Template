@@ -14,4 +14,4 @@ While this template is primarily for personal use, contributions and suggestions
 
 ## How it looks?
 ## Features
-## How to run the project
+## How to run the project?
