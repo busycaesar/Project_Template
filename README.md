@@ -12,6 +12,6 @@ While this template is primarily for personal use, contributions and suggestions
 
 <img src="https://skillicons.dev/icons?i=js,ts" />
 
-## How it looks
+## How it looks?
 ## Features
 ## How to run the project
