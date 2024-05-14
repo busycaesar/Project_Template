@@ -16,3 +16,5 @@ While this template is primarily for personal use, contributions and suggestions
 ## Features
 ## How to run the project?
 ## Author
+
+<a href="https://github.com/busycaesar">Dev Shah</a>
