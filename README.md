@@ -10,7 +10,7 @@ While this template is primarily for personal use, contributions and suggestions
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts" />
+![Image Alt](https://skillicons.dev/icons?i=js,ts)
 
 ## How it looks?
 ## Features
