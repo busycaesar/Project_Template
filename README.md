@@ -8,6 +8,11 @@ While this template is primarily for personal use, contributions and suggestions
 
 ## Description
 
+### Video Explanation
+
+[<img src="https://img.youtube.com/vi/[video id]/0.jpg" width="500" height="375"
+/>](https://www.youtube.com/embed/[video id])
+
 ## Tech Stack
 
 ![Image Alt](https://skillicons.dev/icons?i=js,ts)
