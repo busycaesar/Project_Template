@@ -10,8 +10,7 @@ While this template is primarily for personal use, contributions and suggestions
 
 ### Video Explanation
 
-[<img src="https://img.youtube.com/vi/[video id]/0.jpg" width="500" height="375"
-/>](https://www.youtube.com/embed/[video id])
+[![Video Explanation YouTube Link](https://img.youtube.com/vi/t93d8ieZn0Q/0.jpg)](https://www.youtube.com/embed/t93d8ieZn0Q)
 
 ## Tech Stack
 
